@@ -28,13 +28,17 @@
 6 directories, 11 files
 ```
 本项目采用`yeoman`搭建，项目源码下载完毕后，你需要安装软件`nodejs`。
-`nodejs`安装后，你需要使用命令行软件切换到项目目录，并执行以下命令：
-`npm install --global yo gulp-cli bower`
-此时，便可以使用以下命令来查看项目了：
-执行 `gulp serve` 阅览项目，并在源代码发生变化后，自动刷新页面。
-执行 `bower install --save <package>` 安装前端的依赖包(package替换为包名)
-执行 `gulp serve:test` 在浏览器中启动测试
-执行 `gulp` 创建生产环境下使用的项目。
-执行 `gulp serve:dist` 阅览创建的生产环境下的项目。
+<br>
+`nodejs`安装后，你需要使用命令行软件切换到项目目录，并执行以下命令:
+<br>
+`npm install --global yo gulp-cli bower` <br>
+此时，便可以使用以下命令来查看项目了：<br>
 
+* 执行 `gulp serve` 阅览项目，并在源代码发生变化后，自动刷新页面。
+* 执行 `bower install --save <package>` 安装前端的依赖包(package替换为包名)
+* 执行 `gulp serve:test` 在浏览器中启动测试
+* 执行 `gulp` 创建生产环境下使用的项目。
+* 执行 `gulp serve:dist` 阅览创建的生产环境下的项目。
+
+<hr>
 GOOD LUCK！
